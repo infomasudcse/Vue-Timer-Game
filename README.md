@@ -1,5 +1,7 @@
 # timer-game
 
+A Reaction Timer Game Created with VUE 3
+
 ## Project setup
 ```
 npm install
